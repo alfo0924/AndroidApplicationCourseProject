@@ -1,7 +1,7 @@
 Android Application Course
 <br>
 <br>
-<a href="https://github.com/alfo0924/AndroidApplicationCourseProject"> 20240701/20240703AndroidApplicationCourseProject </a> 
+<a href="https://github.com/alfo0924/AndroidApplicationCourseProject"> 20240701 / 20240703 AndroidApplicationCourseProject </a> 
 <br>
 <br>
 <a href="https://github.com/alfo0924/20240708TempCounterPractice">20240708 TempCounterPractice</a>
