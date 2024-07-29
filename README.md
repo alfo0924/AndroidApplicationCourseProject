@@ -22,13 +22,13 @@ Android Application Course
 <a href="https://github.com/alfo0924/20240710-WeatherAppLayoutPractice">20240710 WeatherAppLayoutPractice</a>
 <br>
 <br>
-<a href=""> </a>
+<a href="https://github.com/alfo0924/AndroidActivityPractice">20240715 AndroidActivityPractice</a>
 <br>
 <br>
-<a href=""> </a>
+<a href="https://github.com/alfo0924/AndroidActivityPractice2">20240715 AndroidActivityPractice2</a>
 <br>
 <br>
-<a href=""> </a>
+<a href="https://github.com/alfo0924/AndroidBMIPractice">20240715 AndroidBMIPractice</a>
 <br>
 <br>
 <a href=""> </a>
