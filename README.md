@@ -40,7 +40,7 @@ Android Application Course
 <a href="https://github.com/alfo0924/20240729ActivityLifeCycle">20240729 ActivityLifeCycle</a>
 <br>
 <br>
-<a href="https://github.com/alfo0924/20240729-TeslaChargerApplication-">20240729 TeslaChargerApplication- 持續更新中</a>
+<a href="https://github.com/alfo0924/20240729-TeslaChargerApplication-">20240729 TeslaChargerApplication </a>
 <br>
 <br>
 <a href=""> </a>
