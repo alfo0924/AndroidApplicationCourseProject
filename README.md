@@ -46,7 +46,7 @@ Android Application Course
 <a href="https://github.com/alfo0924/20240731EventDemo">20240731 EventDemo</a>
 <br>
 <br>
-<a href=""> </a>
+<a href="https://github.com/alfo0924/20240731EventDemoPractice">20240731 EventDemoPractice</a>
 <br>
 <br>
 <a href=""> </a>
