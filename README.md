@@ -43,7 +43,7 @@ Android Application Course
 <a href="https://github.com/alfo0924/20240729-TeslaChargerApplication-">20240729 TeslaChargerApplication </a>
 <br>
 <br>
-<a href=""> </a>
+<a href="https://github.com/alfo0924/20240731EventDemo">20240731 EventDemo</a>
 <br>
 <br>
 <a href=""> </a>
